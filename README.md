@@ -14,4 +14,4 @@ Make sure the `sf-fire-calls.csv` file is in the same directory as the code file
 This project showcases how to leverage PySpark for analyzing a large dataset on fire calls, extracting valuable insights regarding call types, timing, response delays, and neighborhood-specific statistics.
 
 ## 📝 Notes
-- This project was executed on a local Spark cluster.
+- This project was executed on a DataBriks Spark cluster.
